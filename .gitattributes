@@ -1,3 +1,4 @@
+static/* linguist-vendored
 * text=auto
 
 *.blade.php diff=html
